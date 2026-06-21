@@ -1,0 +1,4 @@
+arquivo;empresa;competencia;ignorar;observacao
+exemplo_sptrans.csv;EMPRESA EXEMPLO LTDA;2026-05;;Arquivo de creditos SPTrans
+exemplo_vianova.csv;EMPRESA EXEMPLO LTDA;2026-05;;Arquivo de creditos ViaNova
+exemplo_pedido.csv;EMPRESA EXEMPLO LTDA;2026-05;;Pedido pago com status confirmado no arquivo

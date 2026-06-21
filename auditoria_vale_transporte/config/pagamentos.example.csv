@@ -1,0 +1,3 @@
+fornecedor;competencia;arquivo_relacionado;valor_creditos;valor_pago;data_pagamento;observacao
+SPTrans;2026-05;exemplo_sptrans.csv;1000,00;1025,00;2026-05-10;Exemplo com taxa de fornecedor
+Via Nova;2026-05;exemplo_vianova.csv;500,00;520,00;2026-05-10;Exemplo com taxa de fornecedor

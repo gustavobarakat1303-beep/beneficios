@@ -1,0 +1,20 @@
+# Dados sensiveis e arquivos operacionais
+entradas/
+outputs/
+*.csv
+*.crdownload
+*.xlsx
+*.xls
+*.xlsm
+*.inspect.ndjson
+
+# Dependencias locais
+node_modules/
+
+# Arquivos temporarios
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+!config/*.example.csv
